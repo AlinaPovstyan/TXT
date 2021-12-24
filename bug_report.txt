@@ -1,1 +1,10 @@
-
+  Summary : "Brief description of the problem
+  Project : Name of the tested project
+  Component : The name of the part or function of the project under test
+  Version" : The version on which the bug was found
+  Environment : Environment where the error was found
+  Steps : Reproduction steps
+  Actual : Actual result
+  Expected : Expected result
+  Autor : Name
+  Status : Bug status
