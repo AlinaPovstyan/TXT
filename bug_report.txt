@@ -1,4 +1,4 @@
-  Summary : "Brief description of the problem
+  Summary : Brief description of the problem
   Project : Name of the tested project
   Component : The name of the part or function of the project under test
   Version" : The version on which the bug was found
